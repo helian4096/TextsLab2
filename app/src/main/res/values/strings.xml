@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Texts Lab</string>
+    <string name="button_name">Submit</string>
+    <string name="text_content">Welcome, friend!</string>
+    <string name="text_content1">Welcome, </string>
+    <string name="text_content2">!</string>
+    <string name="hint">Enter your name</string>
+    <string-array name="string_array">
+        <item>Hello!</item>
+        <item>Cats</item>
+        <item>Dogs</item>
+        <item>Monkeys</item>
+    </string-array>
+    <string name="cycler_name">Change It Up!</string>
+    <string name="starting_point">Hello</string>
+</resources>
