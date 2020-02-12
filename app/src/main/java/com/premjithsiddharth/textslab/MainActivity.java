@@ -41,7 +41,8 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 main_txt.setText(text_1 + change_txt.getText() + text_2);
             }
-        });
+        }
+        );
         cycler_b.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -51,6 +52,6 @@ public class MainActivity extends AppCompatActivity {
                 }
                 cycler_txt.setText(messages[cycle]);
             }
-        })
+        });
     }
 }
